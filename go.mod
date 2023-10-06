@@ -1,4 +1,4 @@
-module github.com/1amkaizen/go-filemining
+module github.com/1amkaizen/go-fileminer
 
 go 1.18
 
